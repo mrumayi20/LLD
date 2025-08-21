@@ -1,4 +1,3 @@
-"
 # 🍽️ Restaurant Management System (LLD)
 
 A complete low-level design of a restaurant management system in Python.
@@ -58,4 +57,3 @@ This project showcases clean OOP design, modular components, and the use of desi
 **@mrumayi20**
 
 ---
-"
